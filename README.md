@@ -1,4 +1,7 @@
 ### Hello !
+
+![profile views](https://gpvc.arturio.dev/Dexalt142)
+<br/>
 ![statistics](https://github-readme-stats.vercel.app/api?username=Dexalt142&show_icons=true)
 
 ### Preferred Languages and Frameworks
