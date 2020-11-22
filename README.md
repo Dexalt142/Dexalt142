@@ -3,10 +3,10 @@
 ![profile views](https://gpvc.arturio.dev/Dexalt142)
 <br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Dexalt142">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dexalt142&show_icons=true&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Dexalt142">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexalt142&langs_count=6&layout=compact" />
 </a>
 
