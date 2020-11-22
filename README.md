@@ -2,7 +2,13 @@
 
 ![profile views](https://gpvc.arturio.dev/Dexalt142)
 <br/>
-![statistics](https://github-readme-stats.vercel.app/api?username=Dexalt142&show_icons=true)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dexalt142&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexalt142&langs_count=6&layout=compact" />
+</a>
 
 ### Preferred Languages and Frameworks
 <img align="left" alt="Laravel" width="36px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
