@@ -6,6 +6,11 @@
 <a href="https://github.com/Dexalt142">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dexalt142&show_icons=true&count_private=true" />
 </a>
+<br>
+<a href="https://github.com/Dexalt142">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dexalt142" />
+</a>
+<br>
 <a href="https://github.com/Dexalt142">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexalt142&langs_count=6&layout=compact" />
 </a>
